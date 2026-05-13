@@ -1,0 +1,5 @@
+# данные организаторов и результаты прогона
+valid_set.tsv
+final_predictions.tsv
+.ipynb_checkpoints/
+.env
