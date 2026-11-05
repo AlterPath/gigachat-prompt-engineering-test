@@ -57,3 +57,7 @@ Python, LangChain (`langchain-gigachat`), GigaChat-Pro, pandas, scikit-learn, Ma
 ## Лицензия
 
 [MIT](LICENSE)
+
+---
+
+<sub>Код написан в мае 2026, на GitHub выложен в ноябре 2026. Даты коммитов взяты по датам исходных файлов, README и иллюстрации добавлены при выгрузке.</sub>
